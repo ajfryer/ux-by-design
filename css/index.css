@@ -1,0 +1,316 @@
+:root {
+  --purple: #5f57f6;
+  --blue: #90dafb;
+  --red: #ec5e7a;
+  --yellow: #fbe178;
+  --black: #0f0f46;
+}
+
+@font-face {
+  font-family: 'EuclidCircularA';
+  src: url('../assets/fonts/EuclidCircularA-Light.ttf') format('truetype');
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'EuclidCircularA';
+  src: url('../assets/fonts/EuclidCircularA-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'EuclidCircularA';
+  src: url('../assets/fonts/EuclidCircularA-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'EuclidCircularA';
+  src: url('../assets/fonts/EuclidCircularA-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'EuclidCircularA';
+  src: url('../assets/fonts/EuclidCircularA-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+body {
+  color: var(--black);
+  font-family: 'EuclidCircularA';
+}
+
+header {
+  positon: relative;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+header .background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+
+  display: grid;
+  grid-template-rows: repeat(2, 1fr);
+  grid-template-columns: repeat(2, 1fr);
+  z-index: 0;
+
+  background-position: 50% 50%;
+  background-size: 200% 200%;
+}
+
+header .foreground {
+  z-index: 1;
+  max-width: 480px;
+  background-color: rgba(255, 255, 255, 1);
+  backdrop-filter: blur(20px) saturate(200%) contrast(45%) brightness(140%);
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+header .background div:nth-child(1) {
+  background-color: var(--red);
+
+  border-top: 1rem solid var(--yellow);
+  border-left: 1rem solid var(--yellow);
+  background-image: url(../assets/images/stage-1.svg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+header .background div:nth-child(2) {
+  background-color: var(--blue);
+  border-right: 1rem solid var(--purple);
+  border-top: 1rem solid var(--purple);
+  background-image: url(../assets/images/stage-2.svg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+header .background div:nth-child(3) {
+  background-color: var(--purple);
+  border-left: 1rem solid var(--blue);
+  border-bottom: 1rem solid var(--blue);
+  background-image: url(../assets/images/stage-3.svg);
+  background-size: 100%;
+  background-position-y: bottom;
+  background-repeat: no-repeat;
+}
+
+header .background div:nth-child(4) {
+  background-color: var(--yellow);
+  border-right: 1rem solid var(--red);
+  border-bottom: 1rem solid var(--red);
+  background-image: url(../assets/images/stage-4.svg);
+  background-size: 100%;
+  background-position-y: bottom;
+  background-repeat: no-repeat;
+}
+
+header h1 {
+  margin: 0;
+  line-height: 1.66;
+}
+
+header h2 {
+  margin: 0 0 1rem 0;
+  line-height: 1.66;
+  font-weight: 200;
+}
+
+header li {
+  line-height: 2;
+}
+
+header ol {
+  margin: 0;
+}
+
+header ul {
+  align-self: flex-end;
+  margin: 0;
+}
+
+header ul li {
+  line-height: 1;
+  display: inline;
+  margin: 0 0.5rem;
+}
+
+section {
+  padding: 2rem 1rem;
+  display: flex;
+  border: 1rem solid white;
+}
+
+section div {
+}
+
+section#overview {
+  gap: 1rem;
+  padding: 0;
+  flex-direction: column;
+}
+
+section#overview div {
+  padding: 2rem 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+section#overview img {
+  max-height: 100px;
+  margin: 0 auto;
+}
+
+section#overview p {
+  margin-bottom: 0;
+}
+
+section#overview div span {
+}
+
+section#overview div:nth-child(1) {
+  background-color: var(--red);
+  color: white;
+}
+
+section#overview div:nth-child(2) {
+  background-color: var(--blue);
+}
+
+section#overview div:nth-child(3) {
+  background-color: var(--purple);
+  color: white;
+}
+
+section#overview div:nth-child(4) {
+  background-color: var(--yellow);
+}
+
+section#stage-1 {
+  flex-direction: column;
+  background-color: var(--red);
+  border-top: 0px;
+  color: white;
+  align-items: center;
+  justify-content: center;
+}
+
+section#stage-1 img {
+  max-height: 100px;
+}
+
+section#stage-2 {
+  flex-direction: column;
+  background-color: var(--blue);
+  border-top: 0px;
+
+  align-items: center;
+  justify-content: center;
+}
+
+section#stage-3 {
+  flex-direction: column;
+  background-color: var(--purple);
+  border-top: 0px;
+  color: white;
+  align-items: center;
+  justify-content: center;
+}
+
+section#stage-4 {
+  flex-direction: column;
+  background-color: var(--yellow);
+  border-top: 0px;
+  align-items: center;
+  justify-content: center;
+}
+
+footer {
+  flex-direction: column;
+  color: white;
+  background-color: var(--black);
+  padding: 2rem;
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+  min-height: 350px;
+}
+
+footer img {
+  max-height: 1.5rem;
+  margin: 0 0.25rem;
+}
+
+footer img:last-child {
+  max-height: 1.5rem;
+  margin: 0 0.25rem 0 0.1rem;
+}
+
+footer h2 {
+  margin: 2rem 0;
+}
+
+@media screen and (min-width: 1040px) {
+  section {
+    padding: 2rem;
+    flex-direction: row;
+    min-height: 50vh;
+    border: 2rem solid white;
+  }
+
+  header .foreground {
+    padding: 2rem;
+  }
+
+  header .background div:nth-child(1) {
+    border-top: 2rem solid var(--yellow);
+    border-left: 2rem solid var(--yellow);
+  }
+
+  header .background div:nth-child(2) {
+    border-right: 2rem solid var(--purple);
+    border-top: 2rem solid var(--purple);
+  }
+
+  header .background div:nth-child(3) {
+    border-left: 2rem solid var(--blue);
+    border-bottom: 2rem solid var(--blue);
+  }
+
+  header .background div:nth-child(4) {
+    border-right: 2rem solid var(--red);
+    border-bottom: 2rem solid var(--red);
+    background-image: url(../assets/images/stage-4.svg);
+  }
+
+  section#overview {
+    gap: 2rem;
+    flex-direction: row;
+  }
+
+  section#overview div {
+    padding: 2rem;
+  }
+
+  footer img {
+    max-height: 2rem;
+    margin: 0 0.5rem;
+  }
+
+  footer img:last-child {
+    max-height: 2rem;
+    margin: 0 0.5rem 0 0.25rem;
+  }
+}
