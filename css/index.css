@@ -161,10 +161,10 @@ section#overview {
 }
 
 section#overview div {
+  flex: 1 1 0px;
   padding: 2rem 1rem;
   display: flex;
   flex-direction: column;
-  justify-content: center;
 }
 
 section#overview img {
@@ -172,29 +172,50 @@ section#overview img {
   margin: 0 auto;
 }
 
+section#overview h2,
+h3 {
+  text-align: center;
+}
+
 section#overview p {
   margin-bottom: 0;
+  text-indent: 1rem;
 }
 
 section#overview div span {
 }
 
 section#overview div:nth-child(1) {
+  border: 1px dashed var(--black);
+}
+
+section#overview div:nth-child(2) {
   background-color: var(--red);
   color: white;
 }
 
-section#overview div:nth-child(2) {
+section#overview div:nth-child(3) {
   background-color: var(--blue);
 }
 
-section#overview div:nth-child(3) {
+section#overview div:nth-child(4) {
   background-color: var(--purple);
   color: white;
 }
 
-section#overview div:nth-child(4) {
+section#overview div:nth-child(5) {
   background-color: var(--yellow);
+}
+
+section#stage-0 {
+  flex-direction: column;
+  background-color: white;
+  border-top: 0px;
+  align-items: center;
+  justify-content: center;
+  border: 1px dashed var(--black);
+  margin: 2rem;
+  margin-top: 0;
 }
 
 section#stage-1 {
@@ -311,6 +332,6 @@ footer h2 {
 
   footer img:last-child {
     max-height: 2rem;
-    margin: 0 0.5rem 0 0.25rem;
+    margin: 0 0.25rem 0 0.25rem;
   }
 }
