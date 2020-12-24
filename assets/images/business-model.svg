@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000px" height="750px" viewBox="0 0 1000 750" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-108.000000, -250.000000)">
+            <g id="Group-3" transform="translate(108.000000, 250.000000)">
+                <g id="Group" stroke="#0F0F46" stroke-width="5">
+                    <rect id="Rectangle" x="2.5" y="2.5" width="995" height="745"></rect>
+                    <rect id="Rectangle" x="2.5" y="502.5" width="995" height="245"></rect>
+                    <rect id="Rectangle" x="500.5" y="502.5" width="497" height="245"></rect>
+                    <rect id="Rectangle" x="401.380658" y="2.5" width="199" height="500"></rect>
+                    <rect id="Rectangle" x="798.5" y="247.5" width="199" height="255"></rect>
+                    <rect id="Rectangle" x="599.940329" y="247.5" width="199" height="255"></rect>
+                    <rect id="Rectangle" x="798.5" y="2.5" width="199" height="245"></rect>
+                    <rect id="Rectangle" x="599.940329" y="2.5" width="199" height="245"></rect>
+                    <rect id="Rectangle" x="401.261317" y="2.5" width="199" height="245"></rect>
+                    <rect id="Rectangle" x="202.820988" y="247.5" width="199" height="255"></rect>
+                    <rect id="Rectangle" x="202.820988" y="2.5" width="199" height="245"></rect>
+                    <rect id="Rectangle" x="2.5" y="247.5" width="200.761317" height="255"></rect>
+                    <rect id="Rectangle" x="2.5" y="2.5" width="200.761317" height="245"></rect>
+                </g>
+                <g id="Group-2" transform="translate(852.000000, 343.000000)">
+                    <circle id="Oval" fill="#90DAFB" cx="50" cy="50" r="50"></circle>
+                    <text id="Stage-2" font-family="EuclidCircularA-Bold, Euclid Circular A" font-size="18" font-weight="bold" letter-spacing="-0.36" fill="#0F0F46">
+                        <tspan x="18.365" y="56">Stage 2</tspan>
+                    </text>
+                </g>
+                <text id="KEY-METRICS" font-family="EuclidCircularA-Bold, Euclid Circular A" font-size="16" font-weight="bold" letter-spacing="-0.32" fill="#0F0F46">
+                    <tspan x="220" y="271">KEY </tspan>
+                    <tspan x="220" y="291">METRICS</tspan>
+                </text>
+                <text id="PROBLEMS" font-family="EuclidCircularA-Bold, Euclid Circular A" font-size="16" font-weight="bold" letter-spacing="-0.32" fill="#0F0F46">
+                    <tspan x="12" y="26">PROBLEMS</tspan>
+                </text>
+                <text id="SOLUTION" font-family="EuclidCircularA-Bold, Euclid Circular A" font-size="16" font-weight="bold" letter-spacing="-0.32" fill="#0F0F46">
+                    <tspan x="220" y="26">SOLUTION</tspan>
+                </text>
+                <text id="INBOUND-CHANNELS" font-family="EuclidCircularA-Bold, Euclid Circular A" font-size="16" font-weight="bold" letter-spacing="-0.32" fill="#0F0F46">
+                    <tspan x="619" y="271">INBOUND </tspan>
+                    <tspan x="619" y="291">CHANNELS</tspan>
+                </text>
+                <text id="UNIQUE-VALUE-PROPOSI" font-family="EuclidCircularA-Bold, Euclid Circular A" font-size="16" font-weight="bold" letter-spacing="-0.32" fill="#0F0F46">
+                    <tspan x="422" y="271">UNIQUE VALUE </tspan>
+                    <tspan x="422" y="291">PROPOSITION</tspan>
+                </text>
+                <text id="CUSTOMER-SEGMENTS" font-family="EuclidCircularA-Bold, Euclid Circular A" font-size="16" font-weight="bold" letter-spacing="-0.32" fill="#0F0F46">
+                    <tspan x="816" y="26">CUSTOMER </tspan>
+                    <tspan x="816" y="46">SEGMENTS</tspan>
+                </text>
+                <text id="EARLY-ADOPTERS" font-family="EuclidCircularA-Bold, Euclid Circular A" font-size="16" font-weight="bold" letter-spacing="-0.32" fill="#0F0F46">
+                    <tspan x="816" y="271">EARLY </tspan>
+                    <tspan x="816" y="291">ADOPTERS</tspan>
+                </text>
+                <text id="REVENUE-STREAMS" font-family="EuclidCircularA-Bold, Euclid Circular A" font-size="16" font-weight="bold" letter-spacing="-0.32" fill="#0F0F46">
+                    <tspan x="512" y="528">REVENUE</tspan>
+                    <tspan x="512" y="548">STREAMS</tspan>
+                </text>
+                <text id="COST-STRUCTURE" font-family="EuclidCircularA-Bold, Euclid Circular A" font-size="16" font-weight="bold" letter-spacing="-0.32" fill="#0F0F46">
+                    <tspan x="14" y="528">COST</tspan>
+                    <tspan x="14" y="548">STRUCTURE</tspan>
+                </text>
+                <text id="OUTBOUND-CHANNELS" font-family="EuclidCircularA-Bold, Euclid Circular A" font-size="16" font-weight="bold" letter-spacing="-0.32" fill="#0F0F46">
+                    <tspan x="619" y="26">OUTBOUND</tspan>
+                    <tspan x="619" y="46">CHANNELS</tspan>
+                </text>
+                <text id="UNFAIR-ADVANTAGE" font-family="EuclidCircularA-Bold, Euclid Circular A" font-size="16" font-weight="bold" letter-spacing="-0.32" fill="#0F0F46">
+                    <tspan x="422" y="26">UNFAIR </tspan>
+                    <tspan x="422" y="46">ADVANTAGE</tspan>
+                </text>
+                <text id="EXISTING-ALTERNATIVE" font-family="EuclidCircularA-Bold, Euclid Circular A" font-size="16" font-weight="bold" letter-spacing="-0.32" fill="#0F0F46">
+                    <tspan x="14" y="271">EXISTING </tspan>
+                    <tspan x="14" y="291">ALTERNATIVES</tspan>
+                </text>
+                <g id="Group-2" transform="translate(53.000000, 78.000000)">
+                    <circle id="Oval" fill="#EC5E7A" cx="50" cy="50" r="50"></circle>
+                    <text id="Stage-1" font-family="EuclidCircularA-Bold, Euclid Circular A" font-size="18" font-weight="bold" letter-spacing="-0.36" fill="#FFFFFF">
+                        <tspan x="20.138" y="56">Stage 1</tspan>
+                    </text>
+                </g>
+                <g id="Group-2" transform="translate(849.000000, 78.000000)">
+                    <circle id="Oval" fill="#EC5E7A" cx="50" cy="50" r="50"></circle>
+                    <text id="Stage-1" font-family="EuclidCircularA-Bold, Euclid Circular A" font-size="18" font-weight="bold" letter-spacing="-0.36" fill="#FFFFFF">
+                        <tspan x="20.138" y="56">Stage 1</tspan>
+                    </text>
+                </g>
+                <g id="Group-2" transform="translate(53.000000, 343.000000)">
+                    <circle id="Oval" fill="#EC5E7A" cx="50" cy="50" r="50"></circle>
+                    <text id="Stage-1" font-family="EuclidCircularA-Bold, Euclid Circular A" font-size="18" font-weight="bold" letter-spacing="-0.36" fill="#FFFFFF">
+                        <tspan x="20.138" y="56">Stage 1</tspan>
+                    </text>
+                </g>
+                <g id="Group-2" transform="translate(250.000000, 78.000000)">
+                    <circle id="Oval" fill="#90DAFB" cx="50" cy="50" r="50"></circle>
+                    <text id="Stage-2" font-family="EuclidCircularA-Bold, Euclid Circular A" font-size="18" font-weight="bold" letter-spacing="-0.36" fill="#0F0F46">
+                        <tspan x="18.365" y="56">Stage 2</tspan>
+                    </text>
+                </g>
+                <g id="Group-2" transform="translate(686.000000, 581.000000)">
+                    <circle id="Oval" fill="#90DAFB" cx="50" cy="50" r="50"></circle>
+                    <text id="Stage-2" font-family="EuclidCircularA-Bold, Euclid Circular A" font-size="18" font-weight="bold" letter-spacing="-0.36" fill="#0F0F46">
+                        <tspan x="18.365" y="56">Stage 2</tspan>
+                    </text>
+                </g>
+                <g id="Group-2" transform="translate(644.000000, 343.000000)">
+                    <circle id="Oval" fill="#FBE178" cx="50" cy="50" r="50"></circle>
+                    <text id="Stage-4" font-family="EuclidCircularA-Bold, Euclid Circular A" font-size="18" font-weight="bold" letter-spacing="-0.36" fill="#0F0F46">
+                        <tspan x="17.771" y="56">Stage 4</tspan>
+                    </text>
+                </g>
+                <g id="Group-2" transform="translate(188.000000, 581.000000)">
+                    <circle id="Oval" fill="#FBE178" cx="50" cy="50" r="50"></circle>
+                    <text id="Stage-4" font-family="EuclidCircularA-Bold, Euclid Circular A" font-size="18" font-weight="bold" letter-spacing="-0.36" fill="#0F0F46">
+                        <tspan x="17.771" y="56">Stage 4</tspan>
+                    </text>
+                </g>
+                <g id="Group-2" transform="translate(447.000000, 78.000000)">
+                    <circle id="Oval" fill="#FBE178" cx="50" cy="50" r="50"></circle>
+                    <text id="Stage-4" font-family="EuclidCircularA-Bold, Euclid Circular A" font-size="18" font-weight="bold" letter-spacing="-0.36" fill="#0F0F46">
+                        <tspan x="17.771" y="56">Stage 4</tspan>
+                    </text>
+                </g>
+                <g id="Group-2" transform="translate(640.000000, 78.000000)">
+                    <circle id="Oval" fill="#5F57F6" cx="50" cy="50" r="50"></circle>
+                    <text id="Stage-3" font-family="EuclidCircularA-Bold, Euclid Circular A" font-size="18" font-weight="bold" letter-spacing="-0.36" fill="#FFFFFF">
+                        <tspan x="18.248" y="56">Stage 3</tspan>
+                    </text>
+                </g>
+                <g id="Group-2" transform="translate(250.000000, 343.000000)">
+                    <circle id="Oval" fill="#5F57F6" cx="50" cy="50" r="50"></circle>
+                    <text id="Stage-3" font-family="EuclidCircularA-Bold, Euclid Circular A" font-size="18" font-weight="bold" letter-spacing="-0.36" fill="#FFFFFF">
+                        <tspan x="18.248" y="56">Stage 3</tspan>
+                    </text>
+                </g>
+                <g id="Group-2" transform="translate(447.000000, 343.000000)">
+                    <circle id="Oval" fill="#5F57F6" cx="50" cy="50" r="50"></circle>
+                    <text id="Stage-3" font-family="EuclidCircularA-Bold, Euclid Circular A" font-size="18" font-weight="bold" letter-spacing="-0.36" fill="#FFFFFF">
+                        <tspan x="18.248" y="56">Stage 3</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
